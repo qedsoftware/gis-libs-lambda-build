@@ -6,6 +6,3 @@
 cd /opt
 zip -r libgeos-amzn-linux.zip *
 mv libgeos-amzn-linux.zip /output
-
-cd /shapely
-mv /shapely/python-dependencies.zip /output
