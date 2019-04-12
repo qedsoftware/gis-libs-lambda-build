@@ -1,1 +1,0 @@
-Shapely==1.6.4.post2
